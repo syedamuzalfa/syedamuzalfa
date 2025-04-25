@@ -34,5 +34,5 @@ I'm looking to collaborate on interesting Python projects, ML tools, and real-wo
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
 
